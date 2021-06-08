@@ -27,3 +27,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled Components](https://www.styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 
+### Deploy da aplicação :dash:
+
+ > http://apathetic-cars.surge.sh/
